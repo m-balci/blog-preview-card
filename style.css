@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card-wrapper {
-     max-width: 384px;
+     max-width: 24rem;
      border-radius: 20px;
      border: 1px solid black;
      box-shadow: 10px 10px black;
