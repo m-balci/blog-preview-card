@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
         & .category {
           width: fit-content;
           border-radius: 4px;
-          padding: 0,25rem 0,75rem;
+          padding: 0.25rem 0.75rem;
           background-color: var(--clr-yellow);
           font-weight: var(--fw-extra-bold);
           font-size: var(--fs-sm);
